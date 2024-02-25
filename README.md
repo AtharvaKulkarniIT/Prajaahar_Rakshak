@@ -63,12 +63,3 @@ npm install
 - **Database:** MongoDB
 - **Authentication:** Passport.js
 
-## Contributions
-
-Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to reach out with any questions or feedback. Happy coding!
