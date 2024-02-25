@@ -37,7 +37,7 @@ npm install
    - Create a `.env` file in the root of your project and add the MongoDB connection URL:
 
      ```env
-     MONGODB_URI=mongodb://localhost:27017/PrajahaarRakshak
+     MONGO_URI=mongodb://localhost:27017/PrajaaharRakshak
      ```
 
      Adjust the URL according to your MongoDB setup.
