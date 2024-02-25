@@ -48,7 +48,7 @@ npm install
      require('dotenv').config(); // Load environment variables
      module.exports = {
          // other configurations
-         url: process.env.MONGODB_URI || 'mongodb://localhost:27017/PrajahaarRakshak',
+         url: process.env.MONGO_URI || 'mongodb://localhost:27017/PrajahaarRakshak',
      };
      ```
 
