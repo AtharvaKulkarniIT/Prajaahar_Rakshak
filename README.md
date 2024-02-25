@@ -63,3 +63,6 @@ npm install
 - **Database:** MongoDB
 - **Authentication:** Passport.js
 
+## Demo
+Watch the demo [click here](https://youtu.be/XmYxlQWBnvo?si=VYcf5Zjhqxq1d-eE).
+
