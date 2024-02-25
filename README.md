@@ -12,17 +12,27 @@ This repository houses a comprehensive Food Waste Management System developed us
 
 ## Features
 
-- **User Roles:** Admin, donor, and agent roles for tailored user experiences.
+- **User Roles:** Admin, donor and agent roles for tailored user experiences.
 - **Dynamic Donations:** Submit and track surplus food donations with ease.
 - **Agent Assignment:** Efficient assignment of delivery agents based on predefined criteria.
-- **Real-time Updates:** Keep donors, agents, and admins informed with real-time status updates.
+- **Real-time Updates:** Keep donors, agents and admins informed with real-time status updates.
 - **Responsive Design:** Bootstrap ensures a visually appealing and responsive UI across devices.
 
 ## Setup Instructions
 
-1. **Clone the repository:** `git clone https://github.com/AtharvaKulkarniIT/Prajaahar_Rakshak.git`
-2. **Install dependencies:** `npm install`
-3. **Configure MongoDB connection using environment variables:**
+1. **Clone the repository:**
+ ```
+git clone https://github.com/AtharvaKulkarniIT/Prajaahar_Rakshak.git
+```
+
+
+2. **Install dependencies:** 
+```
+npm install
+   ```
+
+
+4. **Configure MongoDB connection using environment variables:**
    - Install MongoDB following the [official installation guide](https://docs.mongodb.com/manual/installation/).
    - Create a `.env` file in the root of your project and add the MongoDB connection URL:
 
@@ -43,8 +53,8 @@ This repository houses a comprehensive Food Waste Management System developed us
      };
      ```
 
-4. **Start the application:** `npm start`
-5. **Access the system at:** `http://localhost:3000`
+5. **Start the application:** `npm start`
+6. **Access the system at:** `http://localhost:5000`
 
 ## Technologies Used
 
